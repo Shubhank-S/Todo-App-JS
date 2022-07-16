@@ -30,7 +30,7 @@ body{
     padding: 20px;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 1);
     border-radius: 5px;
-    background-color: #ffff;
+    background-color: rgb(212, 135, 135);
 }
 
 .list-head{
